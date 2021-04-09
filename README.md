@@ -1,5 +1,7 @@
 # Optional Chaining for JavaScript
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ## Status
 [ECMAScript proposal](https://github.com/tc39/proposals) at stage 4 of the process.
 
